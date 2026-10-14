@@ -30,36 +30,50 @@
 
 ## `01` / THE MIND BEHIND THE MACHINE
 
-```ts
-const pavan = {
-  name: "Pavan Kumar Naraharisetti",
-  role: "Full Stack Developer",
-  company: "ITC Infotech",
-  location: "Bengaluru, India",
-  experience: "4+ years",
+<div align="center">
 
-  frontend: ["Angular", "React", "Next.js"],
-  backend: ["Node.js", "NestJS"],
-  languages: ["TypeScript", "JavaScript"],
-  cloud: ["Microsoft Azure"],
+<img src="https://img.shields.io/badge/SYSTEM%20PROFILE-FULL%20STACK%20ENGINEER-151515?style=for-the-badge&labelColor=25143D&color=C084FC" alt="Full Stack Engineer"/>
 
-  philosophy: "Build with purpose. Engineer for impact."
-};
-```
+### Engineering ideas into experiences.
 
-I engineer modern web applications by connecting thoughtful frontend experiences with dependable backend architecture.
+*I don't just build interfaces. I connect technologies, solve complex problems, and engineer complete digital experiences.*
 
-My work spans component-driven UI development, API engineering, real-time communication, and scalable application workflows. I enjoy breaking down complex requirements into software that is maintainable, efficient, and intuitive to use.
+</div>
 
-- ⚡ Creating responsive, performance-conscious interfaces.
-- ⚙️ Engineering modular APIs and backend services.
-- 🔄 Exploring event-driven workflows and real-time systems.
-- ☁️ Working with cloud platforms and modern deployment practices.
-- 🧠 Continuously improving architecture, code quality, and problem-solving.
+
+### `THE ENGINEERING MINDSET`
+
+<details>
+  <summary><b>⚡ Interface Engineering</b> — Crafting seamless digital experiences</summary>
+
+  Building responsive, component-driven interfaces with a focus on usability, performance, and maintainability.
+</details>
+
+<details>
+  <summary><b>⚙️ Backend Architecture</b> — Building beyond the browser</summary>
+
+  Developing modular APIs, reusable services, and reliable application workflows that connect the entire system.
+</details>
+
+<details>
+  <summary><b>🔄 Real-Time Systems</b> — Connecting data, events, and people</summary>
+
+  Exploring WebSockets, event-driven architecture, asynchronous processing, and efficient data flows.
+</details>
+
+<details>
+  <summary><b>☁️ Cloud & Continuous Evolution</b> — Engineering for what comes next</summary>
+
+  Working with cloud technologies while continuously improving code quality, architecture, and deployment practices.
+</details>
 
 <div align="center">
 
-**Think beyond the interface. Engineer the entire experience.**
+<br/>
+
+**BUILD WITH PURPOSE.**  
+**ENGINEER WITH PRECISION.**  
+**DELIVER WITH IMPACT.**
 
 </div>
 
